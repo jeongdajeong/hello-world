@@ -1,5 +1,4 @@
 # hello-world
-My first repository
 Hi.
 My name is Jeong Da Jeong and my English name is DOMINICA. 
 I majored in a Youth Education in Myeongji Univ.
